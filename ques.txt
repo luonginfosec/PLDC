@@ -1,0 +1,2437 @@
+[
+  {
+    "question": "91. Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam bao gồm:",
+    "options": {
+      "a": "Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ.",
+      "b": "Thủ tướng Chính phủ, các Bộ trưởng.",
+      "c": "Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ.",
+      "d": "Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ và Thủ trưởng cơ quan thuộc Chính phủ."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "92. Thủ tướng Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam do:",
+    "options": {
+      "a": "Chính phủ bầu, miễn nhiệm, bãi nhiệm.",
+      "b": "Quốc hội bầu, miễn nhiệm, bãi nhiệm.",
+      "c": "Uỷ ban thường vụ Quốc hội bầu, miễn nhiệm, bãi nhiệm.",
+      "d": "Nhân dân trực tiếp bầu, miễn nhiệm, bãi nhiệm."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "94. Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam do:",
+    "options": {
+      "a": "Thủ tướng Chính phủ bổ nhiệm, miễn nhiệm, cách chức.",
+      "b": "Quốc hội bổ nhiệm, miễn nhiệm, cách chức.",
+      "c": "Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức (căn cứ nghị quyết của Quốc hội).",
+      "d": "Nhân dân bầu cử trực tiếp."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "62. Quốc gia nào sau đây là nhà nước đơn nhất:",
+    "options": {
+      "a": "Cộng hoà quý tộc.",
+      "b": "Cộng hoà dân chủ.",
+      "c": "Quân chủ tuyệt đối.",
+      "d": "Cộng hoà nhân dân Trung hoa theo hình thức chính thể quân chủ;"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "63. Quốc gia nào sau đây tổ chức nhà nước theo hình thức chính thể quân chủ:",
+    "options": {
+      "a": "Cộng hoà Mỹ.",
+      "b": "Vương quốc Anh.",
+      "c": "Liên bang Nga.",
+      "d": "Cộng hoà Liên bang Đức."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "64. Quốc gia nào sau đây tổ chức nhà nước theo hình thức chính thể cộng hoà:",
+    "options": {
+      "a": "Cộng hoà xã hội chủ nghĩa Việt Nam.",
+      "b": "Cộng quốc Monaco.",
+      "c": "Vương quốc Campuchia.",
+      "d": "Vương quốc Anh."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "65. Tổng thống, Chủ tịch nước, nhà vua phù hợp với nhận định nào sau đây:",
+    "options": {
+      "a": "Do cơ quan lập pháp bầu ra.",
+      "b": "Đứng đầu cơ quan hành pháp.",
+      "c": "Đứng đầu cơ quan tư pháp.",
+      "d": "Là nguyên thủ quốc gia."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "66. Bản chất của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam:",
+    "options": {
+      "a": "Là nhà nước đơn nhất.",
+      "b": "Là nhà nước cộng hoà.",
+      "c": "Là nhà nước dân chủ.",
+      "d": "Là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "67. Đặc trưng của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Nhân dân.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "6. Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân dẫn đến sự ra của nhà nước này sinh trong xã hội:",
+    "options": {
+      "a": "Cộng sản nguyên thủy.",
+      "b": "Chiếm hữu nô lệ.",
+      "c": "Phong kiến.",
+      "d": "Tư bản chủ nghĩa."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "7. Cơ sở kinh tế của chế độ Cộng sản nguyên thủy là:",
+    "options": {
+      "a": "Công hữu về tư liệu sản xuất.",
+      "b": "Tư hữu của chủ nô về tư liệu sản xuất.",
+      "c": "Tư hữu của địa chủ về tư liệu sản xuất.",
+      "d": "Tư hữu của tư sản về tư liệu sản xuất."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "8. Tế bào cơ sở của xã hội Cộng sản nguyên thủy là:",
+    "options": {
+      "a": "Gia đình.",
+      "b": "Bộ lạc.",
+      "c": "Thị tộc.",
+      "d": "Dòng họ."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "9. Thị tộc là một cộng đồng lao động và sản xuất được tổ chức theo:",
+    "options": {
+      "a": "Lãnh thổ.",
+      "b": "Huyết thống.",
+      "c": "Tôn giáo.",
+      "d": "Giới tính."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "10. Công cụ điều chỉnh quan hệ giữa các thành viên trong thị tộc là:",
+    "options": {
+      "a": "Pháp luật và tập quán.",
+      "b": "Tín điều tôn giáo.",
+      "c": "Tập quán.",
+      "d": "Tập quán và tín điều tôn giáo."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "68. Đặc điểm của Bộ máy Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Được tổ chức theo nguyên tắc tập quyền, tất cả quyền lực Nhà nước thuộc về nhân dân.",
+      "b": "Được tổ chức theo nguyên tắc quyền lực Nhà nước là thống nhất nhưng có sự phân công phối hợp giữa các cơ quan thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+      "c": "Bộ máy Nhà nước được hợp thành từ những cơ quan, tổ chức Nhà nước từ Trung ương tới địa phương.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "69. Bộ máy Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam không được tổ chức và hoạt động theo nguyên tắc nào dưới đây:",
+    "options": {
+      "a": "Nguyên tắc quyền lực Nhà nước thuộc về nhân dân.",
+      "b": "Nguyên tắc Đảng lãnh đạo đối với Nhà nước.",
+      "c": "Nguyên tắc tập trung dân chủ.",
+      "d": "Nguyên tắc tam quyền phân lập."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "70. Hiến pháp năm 2013 của nước Cộng hoà xã hội chủ nghĩa Việt Nam xác định:",
+    "options": {
+      "a": "Quyền lực Nhà nước là thống nhất, có sự phân công và phối hợp giữa các cơ quan Nhà nước.",
+      "b": "Quyền lực Nhà nước là thống nhất giữa các cơ quan Nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+      "c": "Quyền lực Nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan Nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "71. Bộ máy Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam gồm các cơ quan:",
+    "options": {
+      "a": "Cơ quan quyền lực Nhà nước; Cơ quan hành chính Nhà nước; Cơ quan xét xử; Cơ quan kiểm sát, Chủ tịch nước.",
+      "b": "Quốc hội; Hội đồng nhân dân các cấp; Chính phủ; Toà án nhân dân các cấp; Viện kiểm sát nhân dân các cấp.",
+      "c": "Cơ quan đại diện; Cơ quan chấp hành - điều hành; Cơ quan xét xử; Cơ quan kiểm sát.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "72. Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Cơ quan quyền lực Nhà nước cao nhất.",
+      "b": "Cơ quan quyền định các vấn đề quan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước.",
+      "c": "Cả a, b, c đều đúng.",
+      "d": "Cả a, b, c đều sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "73. Ở Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, việc thực hiện quyền lập hiến, quyền lập pháp thuộc về:",
+    "options": {
+      "a": "Quốc hội.",
+      "b": "Chính phủ.",
+      "c": "Chủ tịch nước.",
+      "d": "Toà án nhân dân tối cao."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "74. Nhiệm kỳ của Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam:",
+    "options": {
+      "a": "4 năm.",
+      "b": "5 năm.",
+      "c": "6 năm.",
+      "d": "7 năm."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "75. Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam do:",
+    "options": {
+      "a": "Nhân dân bầu ra.",
+      "b": "Hội đồng nhân dân cấp tỉnh bầu ra.",
+      "c": "Hội đồng nhân dân cấp huyện bầu ra.",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "21. Đối tượng tác động của Bộ luật Lao động năm 2012 của nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Công dân Việt Nam, người nước ngoài.",
+      "b": "Công dân Việt Nam, người nước ngoài, tổ chức.",
+      "c": "Cá nhân, cơ quan, tổ chức.",
+      "d": "Công dân Việt Nam, người nước ngoài, người không quốc tịch, tổ chức."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "22. Hiệu lực về không gian của Bộ luật Hình sự năm 1999 (đã được sửa đổi, bổ sung năm 2009) của nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Một vùng.",
+      "b": "Một địa phương.",
+      "c": "Toàn thế giới.",
+      "d": "Lãnh thổ Việt Nam."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "23. Văn bản quy phạm pháp luật là văn bản do:",
+    "options": {
+      "a": "Chủ tịch nước ban hành.",
+      "b": "Quốc hội ban hành.",
+      "c": "Thủ tướng Chính phủ ban hành.",
+      "d": "Cơ quan Nhà nước có thẩm quyền ban hành."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "24. Tính thứ bậc của văn bản quy phạm pháp luật được xác định theo thứ tự là:",
+    "options": {
+      "a": "Hiến pháp, Bộ luật, Pháp lệnh, Nghị định.",
+      "b": "Hiến pháp, Pháp lệnh, Luật, Thông tư.",
+      "c": "Bộ luật, Hiến pháp, Nghị định, Thông tư.",
+      "d": "Luật, Thông tư, Nghị định, Pháp lệnh."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "25. Luật Phá sản năm 2014 do cơ quan nào sau đây ban hành:",
+    "options": {
+      "a": "Chủ tịch nước.",
+      "b": "Quốc hội.",
+      "c": "Bộ Kế hoạch và Đầu tư.",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "86. Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam không có quyền:",
+    "options": {
+      "a": "Quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam.",
+      "b": "Quyết định đặc xá.",
+      "c": "Quyết định đại xá.",
+      "d": "Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "87. Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam đồng thời là:",
+    "options": {
+      "a": "Chủ tịch Quốc hội.",
+      "b": "Chủ tịch Hội đồng quốc phòng và an ninh.",
+      "c": "Chủ tịch Hội đồng dân tộc.",
+      "d": "Chủ tịch Hội đồng bầu cử quốc gia."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "88. Cơ quan hành chính nhà nước cao nhất của nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Quốc hội.",
+      "b": "Chính phủ.",
+      "c": "Uỷ ban nhân dân.",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "89. Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam là cơ quan:",
+    "options": {
+      "a": "Chấp hành của Quốc hội.",
+      "b": "Thường trực của Quốc hội.",
+      "c": "Điều hành của Quốc hội.",
+      "d": "Quản lý Quốc hội."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "90. Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện:",
+    "options": {
+      "a": "Quyền lập pháp.",
+      "b": "Quyền hành pháp.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "43. Hình thức nhà nước gồm:",
+    "options": {
+      "a": "Hình thức đối nội, hình thức đối ngoại, chế độ chính trị.",
+      "b": "Hình thức giai cấp, hình thức xã hội, chế độ chính trị.",
+      "c": "Hình thức chính thể, hình thức cấu trúc, chế độ chính trị.",
+      "d": "Hình thức bên trong, hình thức bên ngoài, chế độ chính trị."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "44. Hình thức chính thể của nhà nước bao gồm hai loại cơ bản là:",
+    "options": {
+      "a": "Chính thể quân chủ tuyệt đối và chính thể quân chủ hạn chế.",
+      "b": "Chính thể cộng hoà dân chủ và chính thể cộng hoà hạn chế.",
+      "c": "Chính thể cộng hoà quý tộc và chính thể cộng hoà dân chủ.",
+      "d": "Chính thể quân chủ và chính thể cộng hoà."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "45. Nhà nước quân chủ là nhà nước:",
+    "options": {
+      "a": "Quyền lực nhà nước tối cao tập trung vào người đứng đầu nhà nước và được hình thành do bầu cử.",
+      "b": "Quyền lực nhà nước tối cao thuộc về một người hay thuộc về một tập thể và được hình thành do bầu cử.",
+      "c": "Quyền lực nhà nước tối cao tập trung toàn bộ hay một phần chủ yếu vào tay người đứng đầu nhà nước theo nguyên tắc thừa kế.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "46. Trong nhà nước quân chủ tuyệt đối:",
+    "options": {
+      "a": "Quyền lực nhà nước tối cao thuộc về một cơ quan tập thể do bầu cử mà ra.",
+      "b": "Quyền lực nhà nước tối cao thuộc về một người và được hình thành do bầu cử.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "24. Tiền lệ pháp hình thành từ:",
+    "options": {
+      "a": "Lập pháp.",
+      "b": "Tập quán.",
+      "c": "Áp dụng pháp luật.",
+      "d": "Tín điều tôn giáo."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "25. Hình thức pháp luật nào xuất hiện sớm nhất trong lịch sử:",
+    "options": {
+      "a": "Tập quán pháp.",
+      "b": "Tiền lệ pháp.",
+      "c": "Văn bản quy phạm pháp luật.",
+      "d": "Quy phạm tôn giáo."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "26. Đặc trưng tính quyền lực của pháp luật bao gồm:",
+    "options": {
+      "a": "Tính nhà nước.",
+      "b": "Tính nhà nước và tính cưỡng chế.",
+      "c": "Tính giai cấp và tính xã hội.",
+      "d": "Tính giai cấp."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "27. Tính xác định chặt chẽ về mặt hình thức của pháp luật là:",
+    "options": {
+      "a": "Việc xác định bất cứ ai được đặt vào những điều kiện ấy cũng không thể làm khác được.",
+      "b": "Việc năng ý chí của giai cấp thống trị lên thành luật.",
+      "c": "Việc Nhà nước đặt ra pháp luật, tổ chức thực hiện pháp luật.",
+      "d": "Sự thể hiện nội dung của pháp luật trong những hình thức nhất định."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "28. Hình thức pháp luật là:",
+    "options": {
+      "a": "Công cụ mà giai cấp thống trị sử dụng để năng ý chí của giai cấp thống trị sự dụng để năng ý chí của giai cấp mình lên thành luật.",
+      "b": "Biểu hiện mà giai cấp thống trị sử dụng để năng ý chí của giai cấp thống trị sử dụng để năng ý chí của giai cấp mình lên thành luật.",
+      "c": "Cách thức mà giai cấp thống trị sử dụng để năng ý chí của mình lên thành luật.",
+      "d": "Hình thức mà giai cấp thống trị sử dụng để năng ý chí của giai cấp mình lên thành luật."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B1. Trong xã hội có giai cấp, quy phạm nào sau đây có vai trò quan trọng đối với việc duy trì trật tự xã hội:",
+    "options": {
+      "a": "Quy phạm đạo đức.",
+      "b": "Quy phạm tập quán.",
+      "c": "Quy phạm pháp luật.",
+      "d": "Quy phạm tôn giáo."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B2. Bộ phận nào sau đây của quy phạm pháp luật nêu lên điều kiện, hoàn cảnh cho chủ thể thực hiện pháp luật:",
+    "options": {
+      "a": "Bộ phận gia định.",
+      "b": "Bộ phận quy định.",
+      "c": "Bộ phận chế tài.",
+      "d": "Bộ phận quy định và bộ phận chế tài."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B3. Bộ phận nào sau đây của quy phạm pháp luật chứa đựng mệnh lệnh của nhà nước:",
+    "options": {
+      "a": "Bộ phận gia định.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B1. Quan hệ pháp luật là:",
+    "options": {
+      "a": "Quan hệ xã hội được các quy phạm pháp luật điều chỉnh.",
+      "b": "Quan hệ giữa người với người về mặt giá trị vật chất hoặc tinh thần.",
+      "c": "Quan hệ xã hội do các quy phạm pháp luật, đạo đức, tín điều tôn giáo điều chỉnh.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B2. Quan hệ pháp luật là quan hệ xã hội có:",
+    "options": {
+      "a": "Tính ý chí.",
+      "b": "Tính giai cấp.",
+      "c": "Tính xã hội.",
+      "d": "Tính giai cấp và tính xã hội."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B3. Một sự kiện pháp lý làm phát sinh, thay đổi hoặc chấm dứt:",
+    "options": {
+      "a": "Chỉ một quan hệ pháp luật.",
+      "b": "Có thể nhiều quan hệ pháp luật.",
+      "c": "Hai quan hệ pháp luật.",
+      "d": "Không làm chấm dứt quan hệ pháp luật."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B4. Cơ cấu của quan hệ pháp luật gồm:",
+    "options": {
+      "a": "Chủ thể, khách thể, hành vi.",
+      "b": "Chủ thể, khách thể, nội dung.",
+      "c": "Chủ thể, nội dung, sự biến.",
+      "d": "Tuỳ thuộc vào loại quan hệ pháp luật cụ thể."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B5. Chủ thể của quan hệ pháp luật gồm:",
+    "options": {
+      "a": "Cá nhân, pháp nhân.",
+      "b": "Thể nhân, pháp nhân.",
+      "c": "Cá nhân, tổ chức.",
+      "d": "Doanh nghiệp, hợp tác xã."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B6. Quan hệ pháp luật hình thành do:",
+    "options": {
+      "a": "Ý chí của các chủ thể tham gia.",
+      "b": "Ý chí của Nhà nước.",
+      "c": "Ý chí của cá nhân.",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "7. Khách thể của quan hệ pháp luật là:",
+    "options": {
+      "a": "Mục tiêu mà chủ thể tham gia quan hệ pháp luật hướng tới.",
+      "b": "Vật, hành vi.",
+      "c": "Lợi ích vật chất, lợi ích tinh thần, lợi ích chính trị xã hội mà các chủ thể tham gia hướng tới.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "8. Hành vi là:",
+    "options": {
+      "a": "Cách xử sự có ý thức của con người.",
+      "b": "Hành động có ý thức của con người.",
+      "c": "Hành động vô thức của con người.",
+      "d": "Tuỳ từng trường hợp cụ thể."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "9. Chủ thể của quan hệ pháp luật phải có:",
+    "options": {
+      "a": "Năng lực pháp luật.",
+      "b": "Năng lực hành vi.",
+      "c": "Năng lực chủ thể.",
+      "d": "Năng lực khác."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "10. Xét về độ tuổi, người có năng lực hành vi dân sự chưa đầy đủ:",
+    "options": {
+      "a": "Dưới 18 tuổi.",
+      "b": "Từ đủ 6 tuổi đến dưới 18 tuổi.",
+      "c": "Từ đủ 15 tuổi đến dưới 18 tuổi.",
+      "d": "Dưới 21 tuổi."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "11. Trong các nhận định sau đây, nhận định nào không đúng:",
+    "options": {
+      "a": "Mọi cá nhân muốn trở thành chủ thể của quan hệ pháp luật chỉ cần có năng lực pháp luật.",
+      "b": "Năng lực pháp luật là toàn bộ những quyền và nghĩa vụ pháp lý mà chủ thể có được theo quy định của pháp luật.",
+      "c": "Năng lực hành vi được hiểu là khả năng của nhà nước thừa nhận cho các cá nhân, tổ chức bằng hành vi của mình có thể xác lập và thực hiện các quyền và nghĩa vụ pháp lý - tức là tham gia vào các quan hệ pháp luật.",
+      "d": "Chủ thể của quan hệ pháp luật bao gồm: Cá nhân, tổ chức."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "12. Chủ thể là tổ chức được tham gia:",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "d. Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "11. Chủ thể của vi phạm pháp luật là:",
+    "options": {
+      "a": "Công dân Việt Nam.",
+      "b": "Cá nhân.",
+      "c": "Công dân nước ngoài.",
+      "d": "Cá nhân và tổ chức."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "12. Chủ thể của vi phạm hành chính là:",
+    "options": {
+      "a": "Công dân Việt Nam.",
+      "b": "Cá nhân.",
+      "c": "Công dân nước ngoài.",
+      "d": "Cá nhân và tổ chức."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "13. Chủ thể của vi phạm hình sự là:",
+    "options": {
+      "a": "Công dân Việt Nam.",
+      "b": "Cá nhân.",
+      "c": "Công dân nước ngoài.",
+      "d": "Cá nhân và tổ chức."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "14. Chủ thể có thẩm quyền áp dụng trách nhiệm hình sự là:",
+    "options": {
+      "a": "Chủ tịch nước.",
+      "b": "Cơ quan công an.",
+      "c": "Toà án nhân dân.",
+      "d": "Viện kiểm sát nhân dân."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "15. Chủ thể có thẩm quyền áp dụng trách nhiệm hành chính là:",
+    "options": {
+      "a": "Quốc hội.",
+      "b": "Cơ quan quản lý nhà nước.",
+      "c": "Bộ trưởng.",
+      "d": "Giám đốc doanh nghiệp."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "16. Chủ thể có thẩm quyền áp dụng trách nhiệm kỷ luật là:",
+    "options": {
+      "a": "Hiệu trưởng.",
+      "b": "Chủ tịch Uỷ ban nhân dân.",
+      "c": "Thẩm phán.",
+      "d": "Thủ trưởng cơ quan, giám đốc doanh nghiệp."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "17. Chủ thể có thẩm quyền áp dụng trách nhiệm dân sự là:",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "d. Tòa án nhân dân."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "81. Nội dung nào sau đây KHÔNG thể hiện địa vị pháp lý của Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam:",
+    "options": {
+      "a": "Cơ quan quyền lực Nhà nước cao nhất;",
+      "b": "Cơ quan đại biểu cao nhất của Nhân dân;",
+      "c": "Cơ quan quan duy nhất có quyền lập hiến và lập pháp;",
+      "d": "Cơ quan quản lý Nhà nước cao nhất của nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "82. Chức vụ nào sau đây không do Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam bầu:",
+    "options": {
+      "a": "Chủ tịch Quốc hội.",
+      "b": "Thành viên Ủy ban thường vụ Quốc hội.",
+      "c": "Đại biểu Quốc hội.",
+      "d": "Chủ tịch nước."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "83. Người đứng đầu Nhà nước, thay mặt Cộng hoà xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại là:",
+    "options": {
+      "a": "Chủ tịch Quốc hội.",
+      "b": "Thủ tướng Chính phủ.",
+      "c": "Chủ tịch nước.",
+      "d": "Tổng Bí thư."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "84. Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam do:",
+    "options": {
+      "a": "Chính phủ bầu, miễn nhiệm, bãi nhiệm.",
+      "b": "Quốc hội bổ nhiệm, miễn nhiệm, bãi nhiệm.",
+      "c": "Uỷ ban thường vụ Quốc hội bầu, miễn nhiệm, bãi nhiệm.",
+      "d": "Đảng Cộng sản Việt Nam bầu, miễn nhiệm, bãi nhiệm."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "85. Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam có quyền:",
+    "options": {
+      "a": "Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ tướng Chính phủ.",
+      "b": "Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B4. Các chủ thể thực hiện quyền chủ thể của mình, thực hiện những hành vi mà pháp luật không cho phép.",
+    "options": {
+      "a": "b. Các chủ thể thực hiện quyền chủ thể của mình, thực hiện những hành vi mà pháp luật không cho phép.",
+      "b": "c. Các chủ thể thực hiện quyền chủ thể của mình, thực hiện những hành vi mà pháp luật cho phép.",
+      "c": "d. Các chủ thể thực hiện quyền và nghĩa vụ chủ thể của mình.",
+      "d": "a. Việc các chủ thể tự mình căn cứ vào các quy định của pháp luật để đưa ra các quyết định làm phát sinh, thay đổi, đình chỉ hoặc chấm dứt các quan hệ pháp luật cụ thể."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B5. Áp dụng pháp luật là:",
+    "options": {
+      "a": "Việc các chủ thể tự mình căn cứ vào các quy định của pháp luật để đưa ra các quyết định làm phát sinh, thay đổi, đình chỉ hoặc chấm dứt các quan hệ pháp luật cụ thể.",
+      "b": "Việc các chủ thể không tự mình căn cứ vào các quy định của pháp luật để tạo ra các quyết định làm phát sinh, thay đổi, đình chỉ hoặc chấm dứt các quan hệ pháp luật cụ thể.",
+      "c": "Hình thức thực hiện pháp luật trong đó Nhà nước thông qua các cơ quan có thẩm quyền hoặc nhà chức trách tổ chức cho các chủ thể thực hiện những quy định của pháp luật, hoặc tự mình căn cứ vào các quy định của pháp luật để tạo ra các quyết định làm phát sinh, thay đổi, đình chỉ hoặc chấm dứt các quan hệ pháp luật cụ thể.",
+      "d": "Cả a, b đều sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B6. Trách nhiệm pháp lý là:",
+    "options": {
+      "a": "Một loại quan hệ pháp luật đặc biệt giữa nhà nước với chủ thể vi phạm pháp luật, trong đó bên vi phạm pháp luật phải gánh chịu những hậu quả bất lợi những biện pháp cưỡng chế nhà nước được quy định ở chế tài các quy phạm pháp luật.",
+      "b": "Một loại quan hệ pháp luật đặc biệt giữa nhà nước với chủ thể.",
+      "c": "Một loại quan hệ pháp luật đặc biệt giữa nhà nước với chủ thể không vi phạm pháp luật.",
+      "d": "Một loại quan hệ pháp luật đặc biệt giữa nhà nước với chủ thể vi phạm pháp luật."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B7. Bản chất của vi phạm pháp luật gồm:",
+    "options": {
+      "a": "Lỗi và động cơ.",
+      "b": "Động cơ và mục đích.",
+      "c": "Lỗi, động cơ và mục đích.",
+      "d": "Cả a, b, c đều sai."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "13. Khi pháp nhân tham gia vào quan hệ pháp luật:",
+    "options": {
+      "a": "Thông qua hành vi của người đại diện theo pháp luật.",
+      "b": "Thông qua hành vi của tất cả các thành viên trong tổ chức.",
+      "c": "Thông qua người đại diện được các thành viên ủy quyền.",
+      "d": "Thông qua cơ quan chủ quản."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "14. Các điều kiện làm phát sinh quan hệ pháp luật:",
+    "options": {
+      "a": "Có quy phạm pháp luật tương ứng điều chỉnh quan hệ xã hội đó.",
+      "b": "Có sự kiện pháp lý.",
+      "c": "Có chủ thể đủ điều kiện tham gia quan hệ pháp luật.",
+      "d": "Cả a, b, c."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "15. Sự kiện pháp lý có thể:",
+    "options": {
+      "a": "Làm phát sinh quan hệ pháp luật cụ thể.",
+      "b": "Làm thay đổi quan hệ pháp luật cụ thể.",
+      "c": "Làm chấm dứt quan hệ pháp luật cụ thể.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "16. Những khẳng định sau đây, khẳng định nào không đúng:",
+    "options": {
+      "a": "Để trực tiếp tham gia vào quan hệ pháp luật, chủ thể phải có cả lực pháp luật và năng lực hành vi.",
+      "b": "Thông thường, năng lực pháp luật xuất hiện khi con người được sinh ra.",
+      "c": "Cứ đủ 18 tuổi là công dân có năng lực hành vi dân sự đầy đủ.",
+      "d": "Chủ thể là cá nhân, năng lực pháp luật có trước năng lực hành vi."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "17. Cá nhân nhận thức được hành vi của mình, tự chịu trách nhiệm trước hành vi của mình và từ đủ .......... được coi là có năng lực hành vi dân sự đầy đủ.",
+    "options": {
+      "a": "16 tuổi.",
+      "b": "18 tuổi.",
+      "c": "20 tuổi.",
+      "d": "21 tuổi."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B1. Thực hiện pháp luật là:",
+    "options": {
+      "a": "Một quá trình hoạt động có mục đích, làm cho những quy định của pháp luật đi vào đời sống, trở thành những hành vi thực tế hợp pháp của các chủ thể.",
+      "b": "Những hành vi thực tế hợp pháp của các chủ thể.",
+      "c": "Một quá trình hoạt động có mục đích.",
+      "d": "Một những hành vi thực tế của chủ thể."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B2. Tuân theo pháp luật là hình thức thực hiện pháp luật trong đó:",
+    "options": {
+      "a": "Các chủ thể pháp luật kiềm chế không tiến hành những hoạt động mà pháp luật cấm.",
+      "b": "Làm cho những quy định của pháp luật đi vào đời sống, trở thành những hành vi thực tế hợp pháp của các chủ thể.",
+      "c": "Các chủ thể thực hiện nghĩa vụ pháp lý của mình bằng những hoạt động tiêu cực.",
+      "d": "Chủ thể thực hiện quyền pháp lý của mình bằng những hoạt động tích cực."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B3. Thi hành pháp luật là hình thức thực hiện pháp luật trong đó:",
+    "options": {
+      "a": "Chủ thể thực hiện quyền pháp lý của mình bằng những hoạt động tích cực.",
+      "b": "Chủ thể thực hiện nghĩa vụ pháp lý của mình bằng những hoạt động tích cực.",
+      "c": "Chủ thể thực hiện nghĩa vụ pháp lý của mình bằng những hoạt động tiêu cực.",
+      "d": "Chủ thể thực hiện quyền pháp lý của mình bằng những hoạt động tiêu cực."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B4. Sử dụng pháp luật là hình thức thực hiện pháp luật trong đó:",
+    "options": {
+      "a": "Các chủ thể thực hiện nghĩa vụ chủ thể của mình.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "13. Kiểu pháp luật được quyết định bởi:",
+    "options": {
+      "a": "Kiểu bộ máy nhà nước.",
+      "b": "Hình thái kinh tế - xã hội.",
+      "c": "Kiểu cấu trúc nhà nước.",
+      "d": "Chế độ chính trị."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "14. Thứ tự thay thế các kiểu pháp luật được thực hiện theo thứ tự:",
+    "options": {
+      "a": "Chủ nô - Phong kiến - Tư sản - Xã hội chủ nghĩa.",
+      "b": "Phong kiến - Chủ nô - Tư sản - Xã hội chủ nghĩa.",
+      "c": "Tư sản - Phong kiến - Chủ nô - Xã hội chủ nghĩa.",
+      "d": "Có những nhà nước bỏ qua một số kiểu pháp luật nhất định."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "15. Có bao nhiêu kiểu pháp luật đã tồn tại trong lịch sử:",
+    "options": {
+      "a": "Hai kiểu pháp luật.",
+      "b": "Ba kiểu pháp luật.",
+      "c": "Bốn kiểu pháp luật.",
+      "d": "Năm kiểu pháp luật."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "16. Pháp luật nước Cộng hoà xã hội chủ nghĩa Việt Nam là hệ thống các quy tắc thể hiện ý chí của giai cấp:",
+    "options": {
+      "a": "Công nhân và trí thức.",
+      "b": "Nông dân và trí thức.",
+      "c": "Công nhân và nhân dân lao động.",
+      "d": "Tư sản."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "17. Bản chất giai cấp chỉ có ở các kiểu pháp luật nào sau đây:",
+    "options": {
+      "a": "Pháp luật Phong kiến, pháp luật Xã hội chủ nghĩa, pháp luật Chủ nô.",
+      "b": "Pháp luật Xã hội chủ nghĩa, pháp luật Phong kiến.",
+      "c": "Pháp luật Tư sản, pháp luật Chủ nô.",
+      "d": "Pháp luật Tư sản, pháp luật Phong kiến, pháp luật Tư sản, pháp luật Xã hội chủ nghĩa."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "18. Kiểu pháp luật nào sau đây không phải là kiểu pháp luật bóc lột:",
+    "options": {
+      "a": "Kiểu pháp luật Xã hội chủ nghĩa, pháp luật Chủ nô, pháp luật Tư sản.",
+      "b": "Pháp luật Chủ nô, pháp luật Phong kiến, pháp luật Tư sản.",
+      "c": "Pháp luật Xã hội chủ nghĩa.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "51. Trong chính thể cộng hoà quý tộc, quyền tham gia bầu cử để thành lập nên cơ quan quyền lực nhà nước tối cao thuộc về:",
+    "options": {
+      "a": "Quý tộc.",
+      "b": "Nhân dân.",
+      "c": "Tăng lữ.",
+      "d": "Vua chúa."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "52. Trong chính thể cộng hoà dân chủ, quyền tham gia bầu cử để thành lập nên cơ quan quyền lực nhà nước tối cao thuộc về:",
+    "options": {
+      "a": "Quý tộc.",
+      "b": "Nhân dân.",
+      "c": "Tăng lữ.",
+      "d": "Vua chúa."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "53. Hình thức cấu trúc nhà nước là:",
+    "options": {
+      "a": "Sự cấu tạo nhà nước thành các đơn vị hành chính lãnh thổ và tính chất quan hệ giữa các bộ phận cấu thành nhà nước với nhau, giữa các cơ quan nhà nước ở trung ương với các cơ quan nhà nước ở địa phương.",
+      "b": "Quyền lực nhà nước tối cao thuộc về một cơ quan tập thể do bầu cử ra trong một thời gian nhất định.",
+      "c": "Cách thức tổ chức, trình tự thành lập và quan hệ giữa các cơ quan quyền lực nhà nước tối cao cũng như mức độ tham gia của nhân dân vào các cơ quan này.",
+      "d": "Là cách thức tổ chức bộ máy nhà nước."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "54. Hình thức cấu trúc nhà nước bao gồm:",
+    "options": {
+      "a": "Nhà nước đơn nhất, nhà nước liên bang.",
+      "b": "Nhà nước liên bang, nhà nước liên minh.",
+      "c": "Nhà nước liên minh, nhà nước đơn nhất.",
+      "d": "Cả a, b và c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "101. Các đơn vị hành chính của nước Cộng hoà xã hội chủ nghĩa Việt Nam được phân định thành:",
+    "options": {
+      "a": "Nước chia thành tỉnh; tỉnh chia thành huyện; huyện chia thành xã; xã chia thành làng; làng chia thành thôn, bản.",
+      "b": "Nước chia thành tỉnh; tỉnh chia thành thành phố trực thuộc trung ương; tỉnh chia thành huyện, thị xã và thành phố thuộc tỉnh; thành phố trực thuộc trung ương chia thành quận, huyện, thị xã và đơn vị hành chính tương đương; huyện chia thành xã, thị trấn; thị xã và thành phố thuộc tỉnh chia thành phường và xã; quận chia thành phường.",
+      "c": "Nước chia thành tỉnh; tỉnh chia thành các sở - ban - ngành; sở chia thành phòng; phòng chia thành các bản.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "102. Cấp chính quyền địa phương bao gồm:",
+    "options": {
+      "a": "Toà án nhân dân, Viện kiểm sát nhân dân, Hội đồng nhân dân và Uỷ ban nhân dân.",
+      "b": "Toà án nhân dân, Hội đồng nhân dân.",
+      "c": "Viện kiểm sát nhân dân, Uỷ ban nhân dân.",
+      "d": "Hội đồng nhân dân và Uỷ ban nhân dân."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "105. Hội đồng nhân dân là:",
+    "options": {
+      "a": "Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan Nhà nước cấp trên.",
+      "b": "Cơ quan quyền lực Nhà nước cao nhất ở địa phương do chi bộ đảng cấp cơ sở giới thiệu và nhân dân địa phương bầu, chịu trách nhiệm trước nhân dân địa phương và đảng bộ cơ sở.",
+      "c": "Cơ quan quản lý Nhà nước cấp cơ sở, thực hiện các nhiệm vụ mà Chính phủ giao cho.",
+      "d": "Cơ quan thực hiện quyền lập pháp, quyết định các vấn đề quan trọng của địa phương, giám sát việc tuân theo Hiến pháp và pháp luật ở địa phương và việc thực hiện nghị quyết của Hội đồng nhân dân."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "16. Tính xã hội của nhà nước thể hiện:",
+    "options": {
+      "a": "Chức năng và nhiệm vụ bảo vệ lợi ích giai cấp.",
+      "b": "Những hoạt động bảo vệ lợi ích của giai cấp thống trị.",
+      "c": "Việc không bảo vệ những lợi ích khác nhau trong xã hội.",
+      "d": "Bảo vệ và thể hiện ý chí và lợi ích chung của xã hội."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "17. Bản chất của nhà nước là:",
+    "options": {
+      "a": "Sản phẩm và biểu hiện của những mâu thuẫn giai cấp.",
+      "b": "Do giai cấp thống trị tổ chức ra và lãnh đạo.",
+      "c": "Một tổ chức quyền lực chính trị công cộng đặc biệt.",
+      "d": "Một tổ chức đặc biệt của quyền lực chính trị, có bộ máy chuyên trách thực hiện chức năng quản lý nhằm duy trì trật tự xã hội và bảo vệ địa vị và lợi ích của giai cấp thống trị trong xã hội có giai cấp."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "18. Quyền lực công cộng đặc biệt của nhà nước được hiểu là:",
+    "options": {
+      "a": "Khả năng sử dụng sức mạnh vũ lực.",
+      "b": "Khả năng sử dụng biện pháp thuyết phục, giáo dục.",
+      "c": "Có thể sử dụng quyền lực kinh tế, chính trị hoặc tư tưởng.",
+      "d": "Việc sử dụng sức mạnh cưỡng chế là độc quyền."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "19. Nhà nước phân chia và quản lý dân cư theo:",
+    "options": {
+      "a": "Huyết thống.",
+      "b": "Đơn vị hành chính - lãnh thổ.",
+      "c": "Giới tính.",
+      "d": "Tôn giáo."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "20. Nhà nước phân chia dân và lãnh thổ nhằm:",
+    "options": {
+      "a": "Thực hiện quyền lực.",
+      "b": "Thực hiện chức năng.",
+      "c": "Quản lý xã hội.",
+      "d": "Trấn áp giai cấp."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "21. Nhà nước có chủ quyền quốc gia là:",
+    "options": {
+      "a": "Nhà nước có quyền tối cao trong đối nội và độc lập trong đối ngoại.",
+      "b": "Nhà nước có quyền lực.",
+      "c": "Nhà nước có quyền tối cao trong đối ngoại.",
+      "d": "Nhà nước được nhân dân trao quyền lực."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "22. Trong đối nội, chủ quyền quốc gia thể hiện:",
+    "options": {
+      "a": "Quyền tối cao của nhà nước trong việc lựa chọn phương hướng phát triển đất nước.",
+      "b": "Quyền tối cao của nhà nước trong việc quyết định chế độ chính trị - kinh tế - văn hoá - xã hội.",
+      "c": "Quyền tối cao của nhà nước trong việc tổ chức và thực hiện các quyền lập pháp, hành pháp và tư pháp.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "23. Trong quan hệ đối ngoại, chủ quyền quốc gia thể hiện:",
+    "options": {
+      "a": "Sự tự do quyết định trong hành động.",
+      "b": "Sự độc lập, bình đẳng giữa các quốc gia.",
+      "c": "Quyền tối cao trong việc tổ chức và thực hiện quyền lực Nhà nước.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "24. Các nhà nước phải tôn trọng và không can thiệp lẫn nhau vì:",
+    "options": {
+      "a": "Nhà nước có quyền lực công cộng đặc biệt.",
+      "b": "Nhà nước có hệ thống pháp luật riêng.",
+      "c": "Mỗi nhà nước chia và quản lý dân cư của mình theo đơn vị hành chính - lãnh thổ.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "25. Để quản lý bất buộc với công dân, nhà nước ban hành:",
+    "options": {
+      "a": "Phong tục tập quán.",
+      "b": "Chuẩn mực đạo đức.",
+      "c": "Pháp luật.",
+      "d": "Tín điều tôn giáo."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "26. Nhà nước thu thuế để:",
+    "options": {
+      "a": "Bảo đảm lợi ích vật chất của giai cấp bóc lột.",
+      "b": "Đảm bảo sự công bằng trong xã hội.",
+      "c": "Đảm bảo nguồn lực cho sự tồn tại của nhà nước.",
+      "d": "Bảo vệ lợi ích cho người nghèo."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "27. Nhà nước quy định và thu các khoản thuế dưới dạng bắt buộc vì:",
+    "options": {
+      "a": "Nhà nước thực hiện quyền lực công cộng của mình.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "33. Các phương pháp chính mà nhà nước sử dụng để thực hiện chức năng nhà nước là:",
+    "options": {
+      "a": "Phương pháp hành chính.",
+      "b": "Phương pháp dân sự.",
+      "c": "Phương pháp hình sự.",
+      "d": "Phương pháp thuyết phục và cưỡng chế."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "34. Nhận định nào dưới đây là đúng:",
+    "options": {
+      "a": "Bản chất của nhà nước sẽ quyết định chức năng, nhiệm vụ của nhà nước.",
+      "b": "Nhiệm vụ cơ bản của nhà nước là cơ sở để xác định số lượng, nội dung, hình thức thực hiện các chức năng, nhiệm vụ của nhà nước.",
+      "c": "Chức năng nhà nước là phương tiện thực hiện nhiệm vụ cơ bản của nhà nước.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "35. Bộ máy nhà nước là:",
+    "options": {
+      "a": "Công cụ để giai cấp thống trị thực hiện quyền lực của mình.",
+      "b": "Sự tập hợp của các cơ quan nhà nước.",
+      "c": "Cách thức để tổ chức và quản lý xã hội.",
+      "d": "Hệ thống các cơ quan nhà nước từ trung ương đến địa phương được tổ chức theo những nguyên tắc chung và thống nhất nhằm thực hiện những nhiệm vụ và chức năng của nhà nước."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "36. Kiểu nhà nước là:",
+    "options": {
+      "a": "Những phương diện hoạt động chủ yếu của nhà nước nhằm thực hiện những nhiệm vụ đặt ra trước nhà nước.",
+      "b": "Cách thức tổ chức quyền lực nhà nước, và phương thức chuyển ý chí của giai cấp thống trị thành ý chí của nhà nước.",
+      "c": "Tổng thể những dấu hiệu cơ bản, đặc thù thể hiện bản chất giai cấp, vai trò xã hội và những điều kiện phát sinh, tồn tại và phát triển của nhà nước trong một hình thái kinh tế xã hội nhất định.",
+      "d": "Cả a, b đều sai."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "55. Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam có hình thức chính thể là:",
+    "options": {
+      "a": "Quân chủ tuyệt đối.",
+      "b": "Quân chủ hạn chế.",
+      "c": "Cộng hoà quý tộc.",
+      "d": "Cộng hoà dân chủ."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "56. Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam có hình thức cấu trúc là:",
+    "options": {
+      "a": "Nhà nước đơn nhất.",
+      "b": "Nhà nước liên bang.",
+      "c": "Nhà nước liên minh.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "57. Vương quốc Campuchia có hình thức chính thể là:",
+    "options": {
+      "a": "Cộng hoà quý tộc.",
+      "b": "Quân chủ hạn chế.",
+      "c": "Cộng hoà quý tộc.",
+      "d": "Cộng hoà dân chủ."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "58. Hình thức chính thể của Vương quốc Thái Lan hiện nay là:",
+    "options": {
+      "a": "Cộng hoà quý tộc.",
+      "b": "Cộng hoà dân chủ nhân dân.",
+      "c": "Quân chủ tuyệt đối.",
+      "d": "Quân chủ hạn chế."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "59. Hình thức cấu trúc của Vương quốc Thái Lan hiện nay là:",
+    "options": {
+      "a": "Nhà nước liên bang.",
+      "b": "Nhà nước liên minh.",
+      "c": "Nhà nước đơn nhất.",
+      "d": "Nhà nước hỗn hợp."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "60. Hình thức cấu trúc của Hợp chúng quốc Hoa Kỳ hiện nay là:",
+    "options": {
+      "a": "Nhà nước liên bang.",
+      "b": "Nhà nước liên minh.",
+      "c": "Nhà nước đơn nhất.",
+      "d": "Nhà nước hỗn hợp."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "61. Hình thức chính thể của Cộng hoà dân chủ nhân dân Lào hiện nay là:",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "Cộng hoà dân chủ nhân dân.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B1. Pháp luật do nhà nước:",
+    "options": {
+      "a": "Ban hành.",
+      "b": "Ban hành và thừa nhận.",
+      "c": "Ban hành hoặc thừa nhận.",
+      "d": "Thừa nhận."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B2. Các quy tắc xử sự chung trong xã hội Cộng sản nguyên thủy gồm:",
+    "options": {
+      "a": "Quy phạm pháp luật, tín điều tôn giáo.",
+      "b": "Quy phạm pháp luật, tín điều tôn giáo, tiền lệ pháp.",
+      "c": "Tiền lệ pháp, quy phạm xã hội, quy phạm pháp luật.",
+      "d": "Phong tục, tập quán và tín điều tôn giáo."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "4. Pháp luật là hệ thống các quy tắc xử sự:",
+    "options": {
+      "a": "Chỉ do Chính phủ ban hành và bảo đảm thực hiện.",
+      "b": "Do nhà nước ban hành và bảo đảm thực hiện.",
+      "c": "Do tất cả các cơ quan nhà nước ban hành và bảo đảm thực hiện.",
+      "d": "Do thị tộc, bộ lạc ban hành và bảo đảm thực hiện."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "5. Khái niệm pháp luật là:",
+    "options": {
+      "a": "Hệ thống các quy tắc xử sự do nhà nước ban hành và bảo đảm thực hiện.",
+      "b": "Hệ thống các quy tắc xử sự của giai cấp thống trị trong xã hội.",
+      "c": "Hệ thống các quy tắc xử sự do nhà nước ban hành và bảo đảm thực hiện, thể hiện ý chí của giai cấp thống trị trong xã hội, là nhân tố điều chỉnh các quan hệ xã hội.",
+      "d": "Nhân tố điều chỉnh các quan hệ xã hội."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "6. Bản chất của pháp luật thể hiện ở:",
+    "options": {
+      "a": "Tính tự nhiên.",
+      "b": "Tính giai cấp.",
+      "c": "Tính xã hội.",
+      "d": "Tính giai cấp và xã hội."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "7. Theo thuyết Mác - Lênin, nguyên nhân dẫn đến sự ra đời của pháp luật là do:",
+    "options": {
+      "a": "Sự xuất hiện của chế độ tư hữu về tư liệu sản xuất và sự phân chia xã hội thành các giai cấp đối kháng và tồn tại sự đấu tranh giữa các giai cấp đối kháng đó.",
+      "b": "Sự xuất hiện của chế độ sở hữu chung về tư liệu sản xuất và sự phân chia xã hội thành các giai cấp đối kháng và tồn tại sự đấu tranh giữa các giai cấp đối kháng đó.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B1. Văn bản pháp luật là văn bản do Quốc hội hoặc Uỷ ban Thường vụ Quốc hội ban hành.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B2. Quyết định khen thưởng của Bộ trưởng Bộ Lao động - Thương binh và Xã hội đối với các tập thể và cá nhân thuộc Bộ là văn bản quy phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B3. Bất kỳ cơ quan Nhà nước nào cũng có quyền ban hành văn bản quy phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B4. Chỉ có các cơ quan nhà nước có thẩm quyền ở Trung ương mới có quyền ban hành văn bản quy phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B5. Hội đồng nhân dân và Ủy ban nhân dân không có quyền ban hành văn bản luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B6. Tất cả các quy phạm pháp luật, quy phạm đạo đức, quy phạm tôn giáo, quy phạm của các tổ chức xã hội đều được nhà nước đảm bảo thực hiện bằng quyền lực nhà nước.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai.",
+      "d": "d. Sai."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B7. Quy phạm pháp luật có tác dụng điều chỉnh tất cả các quan hệ xã hội.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B8. Quy phạm pháp luật được hiểu là các điều luật trong các văn bản quy phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B9. Bộ phận giải thích của quy phạm pháp luật cho chủ thể biết phải xử sự như thế nào.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B10. Bộ phận quy định của quy phạm pháp luật cho biết hậu quả bất lợi mà chủ thể phải gánh chịu khi không thực hiện đúng yêu cầu của pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B11. Bộ phận chế tài cho chủ thể biết hoàn cảnh, điều kiện mà pháp luật dựa liệu trước.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B12. Một quy phạm pháp luật phải có đầy đủ ba bộ phận: giả định, quy định và chế tài.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "18. Căn cứ vào dấu hiệu ý chí, sự kiện pháp lý được phân loại thành:",
+    "options": {
+      "a": "Sự biến và hành vi.",
+      "b": "Sự kiện làm thay đổi.",
+      "c": "Sự kiện làm chấm dứt.",
+      "d": "Sự kiện làm phát sinh."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "19. Căn cứ vào hậu quả do sự kiện pháp lý gây ra, sự kiện pháp lý được phân loại thành:",
+    "options": {
+      "a": "Sự kiện làm phát sinh.",
+      "b": "Sự kiện làm thay đổi.",
+      "c": "Sự kiện làm chấm dứt.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "20. Căn cứ vào số lượng, điều kiện, hoàn cảnh làm nảy sinh hậu quả pháp lý, sự kiện pháp lý có thể được chia thành:",
+    "options": {
+      "a": "Sự kiện pháp lý giản đơn.",
+      "b": "Sự kiện pháp lý phức tạp.",
+      "c": "Sự kiện pháp lý phức hợp.",
+      "d": "Cả a, b đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "21. Cá nhân là chủ thể của quan hệ pháp luật bao gồm:",
+    "options": {
+      "a": "Công dân Việt Nam.",
+      "b": "Công dân nước ngoài.",
+      "c": "Người không quốc tịch.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "22. Để trở thành chủ thể trực tiếp của quan hệ pháp luật, cá nhân, tổ chức phải có:",
+    "options": {
+      "a": "Năng lực pháp luật.",
+      "b": "Năng lực hành vi.",
+      "c": "Năng lực chủ thể.",
+      "d": "Năng lực hợp pháp."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "23. Điều 33 Hiến pháp năm 2013 của nước Cộng hoà xã hội chủ nghĩa Việt Nam quy định: “Mọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp luật không cấm\" được hiểu là:",
+    "options": {
+      "a": "Quy định về năng lực pháp luật.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B1. Theo thuyết tôn giáo, Nhà nước ra đời do:",
+    "options": {
+      "a": "Sự sáng tạo của thượng đế.",
+      "b": "Do Giáo hội trao quyền cai trị dân chúng cho Nhà vua.",
+      "c": "Do sự thoả thuận của người dân trong xã hội.",
+      "d": "Do tâm lý của người nguyên thủy luôn tôn sùng các thủ lĩnh làm vua."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B2. Theo thuyết gia trưởng, Nhà nước ra đời do:",
+    "options": {
+      "a": "Kết quả phát triển của gia đình và quyền gia trưởng.",
+      "b": "Kết quả của đấu tranh giai cấp.",
+      "c": "Thượng đế sáng tạo ra.",
+      "d": "Tập quán cai trị hình thành."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B3. Theo thuyết bạo lực, nhà nước ra đời do:",
+    "options": {
+      "a": "Các dũng sỹ đấu võ để tìm ra người giỏi nhất đứng đầu nhà nước.",
+      "b": "Mọi người muốn phục tùng vào các thủ lĩnh.",
+      "c": "Kết quả sự dụng bạo lực của thị tộc này với thị tộc khác. Thị tộc chiến thắng tổ chức xây dựng nhà nước để cai trị.",
+      "d": "Thượng đế trao quyền cho các võ sỹ tổ chức nên nhà nước."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B4. Theo thuyết khế ước xã hội, nhà nước ra đời do:",
+    "options": {
+      "a": "Kết quả sự ký kết một hợp đồng giữa các thành viên của một xã hội không có nhà nước.",
+      "b": "Do Giáo hội trao quyền cai trị dân chúng cho Nhà Vua.",
+      "c": "Thượng đế tạo cho nhà dân.",
+      "d": "Thượng đế tạo cho nhân dân."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B5. Theo thuyết Mác - Lênin, nguyên nhân ra đời nhà nước:",
+    "options": {
+      "a": "Sự xuất hiện của chế độ tư hữu.",
+      "b": "Xã hội phân chia thành các giai cấp đối kháng.",
+      "c": "Cả a, b đều đúng.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "4. Bộ phận nào sau đây của quy phạm pháp luật nêu lên hậu quả bất lợi mà chủ thể pháp luật phải gánh chịu:",
+    "options": {
+      "a": "Bộ phận gia định.",
+      "b": "Bộ phận quy định.",
+      "c": "Bộ phận chế tài.",
+      "d": "Bộ phận quy định và bộ phận chế tài."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "5. Đặc điểm khác biệt nhất của quy phạm pháp luật so với các quy phạm xã hội khác là:",
+    "options": {
+      "a": "Là quy tắc xử sự chung.",
+      "b": "Có tính hệ thống.",
+      "c": "Quy định quyền và trách nhiệm của các bên tham gia.",
+      "d": "Do các cơ quan nhà nước có thẩm quyền ban hành và bảo đảm thực hiện."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "6. Trong các chế tài sau đây, chế tài nào là chế tài hình sự:",
+    "options": {
+      "a": "Từ hình.",
+      "b": "Buộc thôi việc.",
+      "c": "Phạt tiền.",
+      "d": "Tịch thu tang vật vi phạm."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "7. Trong các chế tài sau đây, chế tài nào là chế tài kỷ luật:",
+    "options": {
+      "a": "Sa thải.",
+      "b": "Bồi thường thiệt hại.",
+      "c": "Tù chung thân.",
+      "d": "Tịch thu tang vật vi phạm."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "8. Trong các chế tài sau đây, chế tài nào là chế tài hành chính:",
+    "options": {
+      "a": "Cách chức.",
+      "b": "Bồi thường thiệt hại.",
+      "c": "Tù chung thân.",
+      "d": "Tịch thu tang vật vi phạm."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "9. Trong các chế tài sau đây, chế tài nào là chế tài dân sự:",
+    "options": {
+      "a": "Sa thải.",
+      "b": "Bồi thường thiệt hại.",
+      "c": "Tù chung thân.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "28. Chức năng nhà nước là:",
+    "options": {
+      "a": "Những thuộc tính cơ bản quyết định sự tồn tại và phát triển của nhà nước.",
+      "b": "Những mục tiêu mà nhà nước cần đạt tới, là những vấn đề đặt ra mà nhà nước cần giải quyết.",
+      "c": "Những phương diện hoạt động chủ yếu của nhà nước nhằm thực hiện những nhiệm vụ đặt ra trước nhà nước.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "29. Chức năng nhà nước do:",
+    "options": {
+      "a": "Giai cấp thống trị quy định.",
+      "b": "Bản chất, cơ sở kinh tế - xã hội và nhiệm vụ của nhà nước quyết định.",
+      "c": "Công dân.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "30. Chức năng nhà nước được thực hiện bởi:",
+    "options": {
+      "a": "Cơ quan Nhà nước.",
+      "b": "Nhiệm vụ nhà nước.",
+      "c": "Công dân.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "31. Chức năng nhà nước bao gồm:",
+    "options": {
+      "a": "Chức năng đối nội.",
+      "b": "Chức năng đối ngoại.",
+      "c": "Hoặc a hoặc b.",
+      "d": "Cả a và b."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "32. Nhà nước thực hiện chức năng của mình thông qua hình thức:",
+    "options": {
+      "a": "Xây dựng pháp luật.",
+      "b": "Tổ chức thực hiện pháp luật.",
+      "c": "Bảo vệ pháp luật.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "47. Ở hình thức nhà nước nào sau đây, quyền lực nhà nước tối cao tập trung toàn bộ trong tay người đứng đầu nhà nước (vua, hoàng đế...) theo nguyên tắc thừa kế:",
+    "options": {
+      "a": "Chính thể quân chủ tuyệt đối.",
+      "b": "Chính thể quân chủ hạn chế.",
+      "c": "Chính thể cộng hoà quý tộc.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "48. Ở hình thức nhà nước nào sau đây quyền lực nhà nước tối cao được trao một phần cho người đứng đầu nhà nước và một phần thuộc về một cơ quan quyền lực khác:",
+    "options": {
+      "a": "Chính thể cộng hoà dân chủ.",
+      "b": "Chính thể quân chủ hạn chế.",
+      "c": "Chính thể quân chủ tuyệt đối.",
+      "d": "Cả b và c."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "49. Trong nhà nước quân chủ hạn chế:",
+    "options": {
+      "a": "Quyền lực nhà nước tối cao thuộc về một cơ quan tập thể và được hình thành theo phương thức thừa kế.",
+      "b": "Quyền lực nhà nước tối cao thuộc về một người và được hình thành do bầu cử ra.",
+      "c": "Quyền lực nhà nước được phân chia một phần cho người đứng đầu nhà nước theo nguyên tắc thừa kế và một phần cho một cơ quan quyền lực nhà nước khác.",
+      "d": "Quyền lực nhà nước tối cao thuộc về một người do truyền ngôi và một cơ quan tập thể được hình thành do bầu cử trong một thời hạn nhất định."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "50. Nhà nước cộng hoà là nhà nước:",
+    "options": {
+      "a": "Quyền lực nhà nước tối cao tập trung vào người đứng đầu nhà nước và được hình thành do bầu cử.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "96. Toà án nhân dân là cơ quan thực hiện:",
+    "options": {
+      "a": "Quyền lập pháp.",
+      "b": "Quyền hành pháp.",
+      "c": "Quyền tư pháp.",
+      "d": "Quyền kiểm sát."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "97. Chánh án Toà án nhân dân tối cao do:",
+    "options": {
+      "a": "Quốc hội bầu, miễn nhiệm, bãi nhiệm.",
+      "b": "Toà án nhân dân tối cao bầu, miễn nhiệm, bãi nhiệm.",
+      "c": "Chính phủ bầu, miễn nhiệm, bãi nhiệm.",
+      "d": "Chủ tịch nước bầu, miễn nhiệm, bãi nhiệm."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "98. Viện kiểm sát nhân dân là:",
+    "options": {
+      "a": "Cơ quan quyền lực Nhà nước.",
+      "b": "Cơ quan thực hiện quyền công tố, kiểm sát hoạt động tư pháp.",
+      "c": "Cơ quan hành chính và thực hiện quyền công tố.",
+      "d": "Cơ quan thực hiện quyền giám sát tối cao đối với toàn bộ hoạt động của bộ máy nhà nước."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "99. Tổ chức hệ thống Toà án nhân dân của nước Cộng hoà xã hội chủ nghĩa Việt Nam gồm:",
+    "options": {
+      "a": "Toà án nhân dân tối cao và Toà án nhân dân 3 cấp: tỉnh, huyện, xã.",
+      "b": "Toà án nhân dân tối cao và Toà án nhân dân 2 cấp: tỉnh, huyện.",
+      "c": "Toà án cấp sơ thẩm và toà án cấp phúc thẩm.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "100. Tổ chức hệ thống Viện kiểm sát nhân dân của nước Cộng hoà xã hội chủ nghĩa Việt Nam gồm:",
+    "options": {
+      "a": "Viện kiểm sát nhân dân tối cao và Viện kiểm sát nhân dân 3 cấp: tỉnh, huyện.",
+      "b": "Viện kiểm sát nhân dân tối cao và Viện kiểm sát nhân dân 2 cấp: tỉnh, huyện.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C1. Quan hệ pháp luật chính là quan hệ xã hội.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C2. Quan hệ pháp luật là hình thức thể hiện của quy phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C3. Quan hệ pháp luật chỉ có thể xuất hiện khi được một quy phạm pháp luật điều chỉnh quan hệ xã hội tương ứng.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C4. Quan hệ pháp luật luôn mang tính ý chí.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C5. Quan hệ pháp luật cũng thể hiện tính giai cấp.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C6. Chỉ có hành vi của con người mới làm phát sinh quan hệ pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C7. Các chủ thể tham gia quan hệ pháp luật đều mang những quyền và nghĩa vụ pháp lý do các quy phạm pháp luật dự liệu trước.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai.",
+      "d": "d. Đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "C8. Quan hệ pháp luật luôn mang tính cụ thể và xác định, gắn với những chủ thể, sự kiện pháp lý và do quy phạm pháp luật cụ thể điều chỉnh.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C9. Khi quan hệ pháp luật điều chỉnh thì quan hệ xã hội không còn tồn tại.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C10. Để trực tiếp tham gia vào quan hệ pháp luật, chủ thể của quan hệ pháp luật đó phải có năng lực chủ thể gồm năng lực pháp luật và năng lực hành vi.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C11. Năng lực pháp luật là khả năng chủ thể có được những quyền và nghĩa vụ pháp lý theo quy định của pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Sai.",
+      "d": "d. Đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "C12. Quyền được sống, quyền được nhận tặng cho chính là năng lực pháp luật của chủ thể.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Đúng."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C13. Năng lực hành vi là khả năng của chủ thể bằng các hành vi của mình thực hiện trên thực tế các quyền chủ thể và nghĩa vụ pháp lý khi tham gia vào các quan hệ pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "c. Đúng."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "19. Pháp luật Phong kiến dựa trên cơ sở sản xuất Phong kiến trong đó tư liệu sản xuất, chủ yếu là đất đai và các tư liệu sản xuất khác thuộc quyền sở hữu của:",
+    "options": {
+      "a": "Lãnh chúa.",
+      "b": "Giai cấp phong kiến.",
+      "c": "Vua, chúa và thường dân.",
+      "d": "Vua."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "20. Trong xã hội Cộng sản nguyên thủy đã xuất hiện các quy tắc xử sự chung thống nhất, bao gồm:",
+    "options": {
+      "a": "Tập quán và tín điều tôn giáo.",
+      "b": "Các phong tục và tập quán.",
+      "c": "Các phong tục, tập quán và tín điều tôn giáo.",
+      "d": "Văn bản quy phạm pháp luật."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "21. Pháp luật tư sản thể hiện ý chí của giai cấp:",
+    "options": {
+      "a": "Địa chủ.",
+      "b": "Chủ nô.",
+      "c": "Công nhân.",
+      "d": "Tư sản."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "22. Pháp luật Phong kiến có đặc điểm:",
+    "options": {
+      "a": "Phân chia xã hội Phong kiến thành những đẳng cấp khác nhau và quy định cho mỗi đẳng cấp những đặc quyền khác nhau.",
+      "b": "Phân chia xã hội Phong kiến thành các tầng lớp ngang nhau về quyền và nghĩa vụ.",
+      "c": "Sự trừng phạt bằng nhau khi xâm hại tới vua, chúa và thường dân.",
+      "d": "Người thân của những người có chức quyền phạm tội thì không được giảm hình phạt."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "23. Việt Nam trải qua kiểu pháp luật:",
+    "options": {
+      "a": "Chủ nô - Phong kiến - Tư sản - Xã hội chủ nghĩa.",
+      "b": "Phong kiến - Chủ nô - Tư sản - Xã hội chủ nghĩa.",
+      "c": "Phong kiến - Xã hội chủ nghĩa.",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "15. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Hội đồng nhân dân các cấp:",
+    "options": {
+      "a": "Nghị quyết.",
+      "b": "Chỉ thị.",
+      "c": "Quyết định.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "16. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Ủy ban nhân dân các cấp:",
+    "options": {
+      "a": "Nghị quyết.",
+      "b": "Chỉ thị.",
+      "c": "Thông tư.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "17. Văn bản pháp luật nào sau đây có giá trị pháp lý cao nhất:",
+    "options": {
+      "a": "Hiến pháp.",
+      "b": "Bộ luật.",
+      "c": "Lệnh.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "18. Văn bản pháp luật nào sau đây có giá trị pháp lý thấp nhất:",
+    "options": {
+      "a": "Luật do Quốc hội ban hành.",
+      "b": "Thông tư của Bộ trưởng.",
+      "c": "Lệnh của Chủ tịch nước.",
+      "d": "Nghị định của Chính phủ."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "19. Thời điểm có hiệu lực của văn bản quy phạm pháp luật do các cơ quan nhà nước ở Trung ương ban hành được xác định:",
+    "options": {
+      "a": "Không sớm hơn 45 ngày kể từ ngày công bố.",
+      "b": "Không sớm hơn 45 ngày kể từ ngày thông qua.",
+      "c": "Đúng 45 ngày kể từ ngày thông qua.",
+      "d": "Do cơ quan có thẩm quyền ban hành quyết định."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "20. Văn bản quy phạm pháp luật của các cơ quan nhà nước ở Trung ương ban hành sẽ hết hiệu lực khi:",
+    "options": {
+      "a": "Hết thời hạn có hiệu lực đã được quy định trong văn bản.",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "104. Uỷ ban nhân dân do:",
+    "options": {
+      "a": "Nhân dân địa phương trực tiếp bầu.",
+      "b": "Hội đồng nhân dân cùng cấp bầu.",
+      "c": "Chính phủ định.",
+      "d": "Đảng Cộng sản Việt Nam bầu."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "105. Uỷ ban nhân dân là:",
+    "options": {
+      "a": "Cơ quan chấp hành của Hội đồng nhân dân.",
+      "b": "Cơ quan hành chính nhà nước ở địa phương.",
+      "c": "Cơ quan tổ chức việc thi hành Hiến pháp và pháp luật ở địa phương, chức thực hiện nghị quyết của Hội đồng nhân dân, thực hiện các nhiệm vụ của nhà nước cấp trên giao và chịu trách nhiệm trước Hội đồng nhân dân và cơ quan hành chính nhà nước cấp trên.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "106. Hội đồng nhân dân và Ủy ban nhân dân được tổ chức thành:",
+    "options": {
+      "a": "Bốn cấp: trung ương, tỉnh, huyện, xã.",
+      "b": "Ba cấp: tỉnh, huyện, xã.",
+      "c": "Hai cấp: tỉnh, huyện.",
+      "d": "Hai cấp: tỉnh, huyện."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C1. \"Buộc bồi thường thiệt hại\" là hình thức thức xử phạt chính của chế tài hành chính.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C2. Áp dụng pháp luật là hoạt động không mang tính tổ chức, thể hiện quyền lực Nhà nước.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C3. Vi phạm pháp luật luôn là hành vi xác định của con người.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C4. Vi phạm pháp luật chỉ là hành vi không hành động của con người vi phạm pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C5. Vi phạm pháp luật là hành vi trái pháp luật.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C6. Vi phạm hình sự là những hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự của nhà nước do người có năng lực trách nhiệm hình sự thực hiện.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C9. Vi phạm kỷ luật là những hành vi có lỗi trái với những quy định của nội quy, quy chế.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "C10. Vi phạm dân sự là những hành vi vi phạm pháp luật không xâm hại đến các quan hệ tài sản và quan hệ nhân thân.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "18. Khái niệm \"tội phạm\" dùng để chỉ loại vi phạm pháp luật:",
+    "options": {
+      "a": "Hình sự.",
+      "b": "Hành chính.",
+      "c": "Dân sự.",
+      "d": "Kỷ luật."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "38. Đặc trưng cơ bản của kiểu nhà nước chủ nô là:",
+    "options": {
+      "a": "Quyền lực nhà nước tập trung trong tay Nhà vua.",
+      "b": "Bảo vệ chế độ sở hữu của giai cấp chủ nô đối với tư liệu sản xuất chủ yếu là người nô lệ.",
+      "c": "Bộ máy tổ chức nhà nước phức tạp.",
+      "d": "Nô lệ là công cụ biết nói."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "39. Đặc trưng cơ bản của kiểu nhà nước phong kiến là:",
+    "options": {
+      "a": "Bảo vệ chế độ sở hữu tư nhân về tư liệu sản xuất và người nông dân trở thành giai cấp phong kiến.",
+      "b": "Bảo vệ chế độ sở hữu của giai cấp phong kiến đối với tư liệu sản xuất chủ yếu là ruộng đất.",
+      "c": "Phân chia các tầng lớp lao động khác bằng hệ tư tưởng tôn giáo.",
+      "d": "Giai cấp địa chủ có quyền định đoạt tính mạng của người nông dân."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "40. Đặc trưng cơ bản của kiểu nhà nước tư sản là:",
+    "options": {
+      "a": "Bảo vệ chế độ tư hữu về tư liệu sản xuất (chủ yếu là công xưởng, hầm mỏ, nhà xưởng...) và bóc lột chế độ thặng dư.",
+      "b": "Người lao động được tự do - sức lao động xã hội được giải phóng.",
+      "c": "Tín ngưỡng là công việc của cá nhân - nhà thờ tách khỏi nhà nước - tôn giáo không còn là quốc giáo.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "41. Đặc trưng cơ bản của kiểu nhà nước xã hội chủ nghĩa là:",
+    "options": {
+      "a": "Bảo vệ tổ quốc xã hội chủ nghĩa, chống chiến tranh xâm lược.",
+      "b": "Bảo vệ các quyền tự do, dân chủ của công dân.",
+      "c": "Thiết lập các mối quan hệ hợp tác, hoà bình, hữu nghị, cùng phát triển với các nhà nước khác.",
+      "d": "Bảo vệ chế độ công hữu về tư liệu sản xuất, duy trì sự thống trị của giai cấp công nhân và những người lao động chân chính trong xã hội đối với việc xoá bỏ những tàn dư bóc lột, phân cách mạng trong xã hội."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "42. Hình thức nhà nước bao gồm:",
+    "options": {
+      "a": "",
+      "b": "b. Hình thức chính thể, hình thức cấu trúc nhà nước.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "20. Tập quán, tín điều tôn giáo chứa đựng chủ yếu ý chí của giai cấp thống trị trong xã hội.",
+    "options": {
+      "a": "Đúng.",
+      "b": "Sai.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B1. Quy phạm pháp luật, quy phạm đạo đức, quy phạm tôn giáo, quy phạm tập quán là:",
+    "options": {
+      "a": "Các quy phạm pháp luật.",
+      "b": "Các quy phạm đạo đức.",
+      "c": "Các quy phạm tôn giáo.",
+      "d": "Các quy phạm xã hội."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "8. Đặc trưng của pháp luật bao gồm:",
+    "options": {
+      "a": "Tính quyền lực (tính nhà nước, tính cưỡng chế); tính độc lập; tính xác định chặt chẽ về hình thức.",
+      "b": "Tính bắt buộc (tính nhà nước, tính cưỡng chế); tính quy phạm phổ biến; tính biểu hiện ra ngoài bởi hình thức.",
+      "c": "Tính quyền lực (tính nhà nước, tính cưỡng chế); tính quy phạm phổ biến, tính xác định chặt chẽ về mặt hình thức.",
+      "d": "Tính quyền lực (tính nhà nước, tính cưỡng chế); tính quy phạm phổ biến; tính biểu hiện ra ngoài bởi hình thức."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "9. Pháp luật là hiện tượng xã hội luôn gắn liền với:",
+    "options": {
+      "a": "Mâu thuẫn giai cấp.",
+      "b": "Cách mạng xã hội.",
+      "c": "Nhà nước.",
+      "d": "Xã hội cộng sản nguyên thủy."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "10. Pháp luật không tồn tại ở:",
+    "options": {
+      "a": "Xã hội Cộng sản nguyên thủy.",
+      "b": "Nhà nước Xã hội chủ nghĩa.",
+      "c": "Nhà nước Phong kiến.",
+      "d": "Nhà nước Tư sản."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "11. Nguyên nhân dẫn đến sự ra đời của pháp luật là:",
+    "options": {
+      "a": "Sự xuất hiện của chế độ tư hữu về tư liệu sản xuất.",
+      "b": "Sự phân chia xã hội thành các giai cấp đối kháng.",
+      "c": "Sự đấu tranh giữa các giai cấp đối kháng.",
+      "d": "Tất cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "12. Theo thuyết Mác - Lênin xã hội Cộng sản nguyên thủy có:",
+    "options": {
+      "a": "Pháp luật.",
+      "b": "Giai cấp.",
+      "c": "Nhà nước.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B5. Chủ thể của vi phạm pháp luật gồm:",
+    "options": {
+      "a": "Cá nhân.",
+      "b": "Tổ chức.",
+      "c": "Nhà nước.",
+      "d": "Cá nhân và tổ chức."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B6. Mối quan hệ giữa vi phạm pháp luật và sự thiệt hại của xã hội:",
+    "options": {
+      "a": "Vi phạm pháp luật là hành vi trái pháp luật.",
+      "b": "Sự thiệt hại của xã hội là hậu quả của vi phạm pháp luật.",
+      "c": "Vi phạm pháp luật luôn gây ra sự thiệt hại cho xã hội.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B7. Vi phạm pháp luật là:",
+    "options": {
+      "a": "Hành vi trái pháp luật, có lỗi của chủ thể không có năng lực trách nhiệm pháp lý xâm hại tới quan hệ xã hội được pháp luật bảo vệ.",
+      "b": "Vi phạm pháp luật là hành vi (hành động hoặc không hành động) trái pháp luật do chủ thể có năng lực trách nhiệm pháp lý thực hiện một cách cố ý hoặc vô ý xâm hại tới các quan hệ xã hội được pháp luật bảo vệ.",
+      "c": "Hành vi trái pháp luật, không có lỗi của chủ thể có năng lực trách nhiệm pháp lý xâm hại tới quan hệ xã hội được pháp luật bảo vệ.",
+      "d": "Hành vi trái pháp luật của chủ thể có năng lực trách nhiệm pháp lý xâm hại tới quan hệ xã hội được pháp luật bảo vệ."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "B8. Áp dụng pháp luật được sử dụng khi:",
+    "options": {
+      "a": "Cần áp dụng các biện pháp cưỡng chế nhà nước hoặc áp dụng các chế tài pháp luật đối với những chủ thể có hành vi vi phạm pháp luật.",
+      "b": "Quyền và nghĩa vụ pháp lý của chủ thể không mặc nhiên phát sinh thay đổi hay chấm dứt nếu thiếu sự can thiệp của Nhà nước; xảy ra tranh chấp về quyền hoặc nghĩa vụ pháp lý giữa các bên tham gia quan hệ pháp luật mà các bên đó không tự giải quyết được.",
+      "c": "Trong một số quan hệ pháp luật mà Nhà nước thấy cần thiết phải tham gia để kiểm tra, giám sát các bên tham gia quan hệ đó hoặc xác nhận sự tồn tại hay không tồn tại của một số sự việc, sự kiện thực tế.",
+      "d": "Cả a, b và c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B9. Quyền và nghĩa vụ pháp lý của chủ thể được Nhà nước bảo đảm thực hiện bằng:",
+    "options": {
+      "a": "Thuyết phục.",
+      "b": "Giáo dục.",
+      "c": "Cưỡng chế.",
+      "d": "Cả a, b và c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "B10. Loại vi phạm pháp luật nào sau đây là hành vi nguy hiểm cho xã hội:",
+    "options": {
+      "a": "Vi phạm hành chính.",
+      "b": "Vi phạm hình sự.",
+      "c": "Vi phạm dân sự.",
+      "d": "Vi phạm kỷ luật."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "28. Năng lực chủ thể (năng lực pháp luật và năng lực hành vi) của pháp nhân chấm dứt khi pháp nhân:",
+    "options": {
+      "a": "Không hoàn thành nghĩa vụ theo hợp đồng.",
+      "b": "Bị giải thể, bị tuyên bố phá sản.",
+      "c": "Cả a và b đều đúng.",
+      "d": "Cả a và b đều sai."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "29. Năng lực hành vi xuất hiện ở cá nhân khi:",
+    "options": {
+      "a": "Cá nhân có khả năng nhận thức.",
+      "b": "Cá nhân sinh ra.",
+      "c": "Cá nhân đạt đến một độ tuổi nhất định.",
+      "d": "Cá nhân đạt đến một độ tuổi nhất định và có khả năng nhận thức."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "30. Chủ thể của quan hệ pháp luật là:",
+    "options": {
+      "a": "Bất kỳ cá nhân, tổ chức nào trong xã hội.",
+      "b": "Cá nhân, tổ chức được Nhà nước công nhận có khả năng tham gia vào các quan hệ pháp luật.",
+      "c": "Cá nhân có năng lực hành vi, pháp nhân được thành lập hợp pháp.",
+      "d": "Cả a, b, c đều sai."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "31. Khả năng để chủ thể được hưởng quyền và nghĩa vụ từ quan hệ pháp luật là:",
+    "options": {
+      "a": "Năng lực pháp luật.",
+      "b": "Năng lực hành vi.",
+      "c": "Năng lực pháp luật và năng lực hành vi.",
+      "d": "Pháp luật không quy định."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "32. Người có năng lực hành vi là người:",
+    "options": {
+      "a": "Đạt một độ tuổi nhất định theo quy định của pháp luật, có thể nhận thức và điều khiển hành vi của mình.",
+      "b": "Không mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "76. Cơ quan thường trực của Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Hội đồng dân tộc.",
+      "b": "Uỷ ban Quốc hội.",
+      "c": "Uỷ ban thường vụ Quốc hội.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "77. Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam họp thường kỳ mỗi năm:",
+    "options": {
+      "a": "1 kỳ.",
+      "b": "2 kỳ.",
+      "c": "3 kỳ.",
+      "d": "Không có quy định cụ thể."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "78. Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam có quyền bầu, miễn nhiệm, bãi nhiệm:",
+    "options": {
+      "a": "Chủ tịch nước, Phó Chủ tịch nước.",
+      "b": "Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Uỷ viên Uỷ ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Uỷ ban của Quốc hội.",
+      "c": "Thủ tướng Chính phủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "79. Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam có quyền phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức:",
+    "options": {
+      "a": "Phó Thủ tướng Chính phủ.",
+      "b": "Bộ trưởng và thành viên khác của Chính phủ.",
+      "c": "Thẩm phán Toà án nhân dân tối cao.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "80. Phương án nào sau đây không thể thẩm quyền của Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam:",
+    "options": {
+      "a": "Quyền lập hiến, lập pháp.",
+      "b": "Quyền quyết định những vấn đề quan trọng nhất của đất nước.",
+      "c": "Quyền giám sát tối cao đối với toàn bộ hoạt động của Nhà nước.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "C12. Quyền lực và hệ thống tổ chức quyền lực trong xã hội Cộng sản nguyên thủy:",
+    "options": {
+      "a": "Hoà nhập vào xã hội và phục vụ lợi ích của các thành viên trong xã hội.",
+      "b": "Đứng trên xã hội, tách khỏi xã hội và phục vụ lợi ích cho Hội đồng thị tộc, tù trưởng, các thủ lĩnh tôn giáo.",
+      "c": "Hoà nhập vào xã hội và phục vụ lợi ích cho Hội đồng thị tộc, tù trưởng, các thủ lĩnh tôn giáo.",
+      "d": "Là sức mạnh của nhà nước."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C13. Nhận định nào sau đây đúng:",
+    "options": {
+      "a": "Xã hội Cộng sản nguyên thủy chưa có nhà nước và do đó không có quyền lực và tổ chức quyền lực.",
+      "b": "Xã hội Cộng sản nguyên thủy đã có nhà nước nhưng không có quyền lực và tổ chức quyền lực.",
+      "c": "Xã hội Cộng sản nguyên thủy chưa có nhà nước nhưng có quyền lực và tổ chức quyền lực.",
+      "d": "Xã hội Cộng sản nguyên thủy đã có nhà nước nhưng chưa có quyền lực và tổ chức quyền lực."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C14. Bản chất nhà nước thể hiện ở:",
+    "options": {
+      "a": "Tính giai cấp.",
+      "b": "Tính xã hội.",
+      "c": "Tính giai cấp hoặc tính xã hội.",
+      "d": "Cả a, b đều sai."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "C15. Tính giai cấp của nhà nước thể hiện:",
+    "options": {
+      "a": "Nhà nước là một bộ máy trấn áp giai cấp.",
+      "b": "Nhà nước là một bộ máy của giai cấp này thống trị giai cấp khác.",
+      "c": "Nhà nước ra đời là sản phẩm của xã hội có giai cấp.",
+      "d": "Cả a, b và c."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "29. Hình thức pháp luật nào do cơ quan có thẩm quyền của nhà nước ban hành theo trình tự nhất định:",
+    "options": {
+      "a": "Tập quán pháp.",
+      "b": "Tiền lệ pháp.",
+      "c": "Văn bản quy phạm pháp luật.",
+      "d": "Quy phạm tôn giáo."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "30. Tiền lệ pháp là hình thức thực hiện pháp luật mà:",
+    "options": {
+      "a": "Nhà nước thừa nhận các quyết định của các cơ quan hành chính có thẩm quyền giải quyết những vụ việc cụ thể để áp dụng vào giải quyết những vụ việc tương tự.",
+      "b": "Nhà nước thừa nhận các quyết định của các cơ quan lập pháp và áp dụng vào những vụ việc tương tự.",
+      "c": "Nhà nước thừa nhận các vụ án để giải quyết tất cả các vụ việc.",
+      "d": "Nhà nước thừa nhận các quyết định của các cơ quan hành chính hoặc xét xử để giải quyết tất cả các vụ việc."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "31. Tập quán pháp là hình thức thực hiện pháp luật mà:",
+    "options": {
+      "a": "Nhà nước thừa nhận một số tập quán đã lưu truyền trong xã hội, nâng chúng thành quy tắc xử sự chung và được đảm bảo thực hiện.",
+      "b": "Nhà nước thừa nhận một số tập quán đã lưu truyền trong xã hội, nâng chúng thành quy tắc xử sự chung.",
+      "c": "Nhà nước thừa nhận một số tập quán đã lưu truyền trong xã hội, nâng chúng thành các quy tắc xử sự chung được Nhà nước bảo đảm thực hiện.",
+      "d": "Nhà nước thừa nhận một số tập quán đã lưu truyền trong xã hội, nâng chúng thành các quy tắc xử sự chung được Nhà nước bảo đảm thực hiện."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "24. Người nghiện ma túy hoặc chất kích thích khác bị hạn chế năng lực hành vi dân sự khi:",
+    "options": {
+      "a": "Bị cơ quan an hanh chế năng lực hành vi dân sự.",
+      "b": "Bị Tòa án nhân dân có thẩm quyền tuyên bố hạn chế năng lực hành vi dân sự.",
+      "c": "Bị Viện kiểm sát nhân dân có thẩm quyền tuyên bố hạn chế năng lực hành vi dân sự.",
+      "d": "Cả a, b, c đều đúng."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "25. Xét về độ tuổi, người không có năng lực hành vi dân sự là:",
+    "options": {
+      "a": "Dưới 6 tuổi.",
+      "b": "Dưới 14 tuổi.",
+      "c": "Dưới 16 tuổi.",
+      "d": "Dưới 18 tuổi."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "26. Sự kiện pháp lý, xem xét ở khía cạnh sự biến là:",
+    "options": {
+      "a": "Những sự kiện của đời sống thực tế khách quan xảy ra không phụ thuộc vào ý chí con người.",
+      "b": "Những sự kiện của đời sống thực tế khách quan xảy ra phụ thuộc trực tiếp vào ý chí con người.",
+      "c": "Những sự kiện của đời sống thực tế khách quan xảy ra không phụ thuộc vào ý chí con người hoặc không phụ thuộc vào ý chí chủ quan của con người tùy từng trường hợp cụ thể.",
+      "d": "Cả a, b, c đều sai."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "27. Sự kiện pháp lý, xem xét ở khía cạnh hành vi:",
+    "options": {
+      "a": "Những sự kiện của đời sống thực tế khách quan xảy ra không phụ thuộc vào ý chí con người.",
+      "b": "b. Những sự kiện xảy ra theo ý chí của con người, là hình thức biểu hiện ý chí của chủ thể pháp luật, mà trong những trường hợp nhất định, pháp luật gắn sự tồn tại của nó với việc làm phát sinh, thay đổi hay chấm dứt các quan hệ pháp luật.",
+      "c": "",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "10. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Quốc hội:",
+    "options": {
+      "a": "Luật.",
+      "b": "Nghị định.",
+      "c": "Thông tư.",
+      "d": "Pháp lệnh."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "11. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Ủy ban thường vụ Quốc hội:",
+    "options": {
+      "a": "Luật.",
+      "b": "Nghị định.",
+      "c": "Thông tư.",
+      "d": "Pháp lệnh."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "12. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Chủ tịch nước:",
+    "options": {
+      "a": "Hiến pháp.",
+      "b": "Lệnh.",
+      "c": "Thông tư.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "13. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Thủ tướng Chính phủ:",
+    "options": {
+      "a": "Hiến pháp.",
+      "b": "Nghị quyết.",
+      "c": "Quyết định.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "14. Văn bản pháp luật nào sau đây thuộc thẩm quyền ban hành của Bộ trưởng:",
+    "options": {
+      "a": "Luật.",
+      "b": "Thông tư.",
+      "c": "Pháp lệnh.",
+      "d": "Nghị định."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "B1. Đối tượng điều chỉnh của Luật Hành chính bao gồm:",
+    "options": {
+      "a": "Các quan hệ tài sản và quan hệ nhân thân.",
+      "b": "Lợi ích kinh doanh.",
+      "c": "Các quan hệ xã hội giữa cơ quan quản lý thuế và người nộp thuế.",
+      "d": "Các quan hệ quản lý phát sinh trong quá trình các cơ quan hành chính Nhà nước thực hiện hoạt động chấp hành - điều hành trên các lĩnh vực khác nhau của đời sống xã hội."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "B2. Cơ quan hành chính nhà nước ở trung ương bao gồm:",
+    "options": {
+      "a": "Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao.",
+      "b": "Quốc hội, Chính phủ, Tòa án nhân dân tối cao.",
+      "c": "Chính phủ, các Bộ, các cơ quan ngang Bộ.",
+      "d": ""
+    },
+    "correct_answer": "c"
+  }
+]
